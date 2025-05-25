@@ -2,12 +2,13 @@
 
 This repository lists methods, models, and datasets for driver activity/distaction recognition
 
-**Methods**
+## Methods
 
- -**Deep learning-based approach:** <br>
-   *Driver Activity Recognition Through Deep Learning: https://ieeexplore.ieee.org/abstract/document/9377022 <br>
-   *Drive-Net: Convolutional Network for Driver Distraction Detection: https://arxiv.org/abs/2006.12586 <br>
-   *An Intelligent Real-Time Driver Activity Recognition System Using Spatio-Temporal Features: https://www.mdpi.com/2076-3417/14/17/7985 <br>
+- **Deep learning-based approach:**
+  
+  - [Driver Activity Recognition Through Deep Learning](https://ieeexplore.ieee.org/abstract/document/9377022)
+  - [Drive-Net: Convolutional Network for Driver Distraction Detection](https://arxiv.org/abs/2006.12586)
+  - [An Intelligent Real-Time Driver Activity Recognition System Using Spatio-Temporal Features](https://www.mdpi.com/2076-3417/14/17/7985)
 
 -Spatiotemporal and Multimodal Techniques <br>
  -Driver Activity Recognition by Learning Spatiotemporal Features of Pose and Human-Object Interaction: https://www.sciencedirect.com/science/article/pii/S1047320321000808 <br>
