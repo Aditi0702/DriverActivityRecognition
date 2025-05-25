@@ -17,12 +17,16 @@ This repository lists methods, models, and datasets for driver activity/distacti
   - [P-YOLOv8: Efficient and Accurate Real-Time Detection of Distracted Driving](https://arxiv.org/abs/2410.15602)
   - [Activity-aware Attributes for Zero-Shot Driver Behavior Recognition](https://openaccess.thecvf.com/content_CVPRW_2020/html/w54/Reiss_Activity-Aware_Attributes_for_Zero-Shot_Driver_Behavior_Recognition_CVPRW_2020_paper.html)
   - [Open Set Driver Activity Recognition](https://ieeexplore.ieee.org/abstract/document/9304605)
+  - [Multi-Modal Deep Learning Architecture for Accurate Driver Behavior Recognition in Automated Driving Systems](https://ieeexplore.ieee.org/abstract/document/10481448)
+  - [Understanding Abnormal Driver's Behaviours Detection](https://ieeexplore.ieee.org/abstract/document/10783494)
  
 - **Transformer-based approaches:**
 
   - [TransDARC: Transformer-based Driver Activity Recognition with Latent Space Feature Calibration](https://arxiv.org/pdf/2203.00927)
   - [Real-time driver drowsiness detection using transformer architectures: a novel deep learning approach](https://www.nature.com/articles/s41598-025-02111-x)
   - [Do You Act Like You Talk? Exploring Pose-based Driver Action Classification with Speech Recognition Networks](http://ieeexplore.ieee.org/abstract/document/10588839)
+  - [CM2-Net: Continual Cross-Modal Mapping Network For Driver Action Recognition](https://ieeexplore.ieee.org/abstract/document/10647381)
+  - [DRVMon-VM: Distracted driver recognition using large pre-trained video transformers](https://ieeexplore.ieee.org/abstract/document/10588412)
   
 
 - **Spatiotemporal and Multimodal Techniques:**
@@ -48,6 +52,9 @@ This repository lists methods, models, and datasets for driver activity/distacti
   - [Quantized Distillation: Optimizing Driver Activity Recognition Models for Resource-Constrained Environments](https://arxiv.org/abs/2311.05970)
   - [Federated Learning-based Driver Activity Recognition for Edge Devices](https://openaccess.thecvf.com/content/CVPR2022W/AICity/html/Doshi_Federated_Learning-Based_Driver_Activity_Recognition_for_Edge_Devices_CVPRW_2022_paper.html)
 
+- **Few-shot Learning-based Methods:**
+
+  - [Metric-based few-shot learning method for driver distracted behaviors detection](https://ieeexplore.ieee.org/abstract/document/10424735)
 
 
 ## Public Datasets:
