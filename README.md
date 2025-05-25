@@ -4,6 +4,7 @@ This repository lists methods, models, and datasets for driver activity/distacti
 
 ## Overview
 - [Driver Behavior Modeling Toward Autonomous Vehicles: Comprehensive Review](https://ieeexplore.ieee.org/abstract/document/10054035)
+- [Driver Distraction Behavior Recognition for Autonomous Driving: Approaches, Datasets and Challenges](https://ieeexplore.ieee.org/abstract/document/10540299)
 
 ## Methods
 
@@ -13,6 +14,13 @@ This repository lists methods, models, and datasets for driver activity/distacti
   - [Drive-Net: Convolutional Network for Driver Distraction Detection](https://arxiv.org/abs/2006.12586)
   - [An Intelligent Real-Time Driver Activity Recognition System Using Spatio-Temporal Features](https://www.mdpi.com/2076-3417/14/17/7985)
   - [Detecting Driver Distraction Using Deep-Learning Approach](https://www.sciencedirect.com/org/science/article/pii/S1546221821009231)
+  - [P-YOLOv8: Efficient and Accurate Real-Time Detection of Distracted Driving](https://arxiv.org/abs/2410.15602)
+ 
+- **Transformer-based approaches:**
+
+  - [TransDARC: Transformer-based Driver Activity Recognition with Latent Space Feature Calibration](https://arxiv.org/pdf/2203.00927)
+  - [Real-time driver drowsiness detection using transformer architectures: a novel deep learning approach](https://www.nature.com/articles/s41598-025-02111-x)
+  
 
 - **Spatiotemporal and Multimodal Techniques:**
 
@@ -30,6 +38,12 @@ This repository lists methods, models, and datasets for driver activity/distacti
 
   - [Driver Activity Classification Using Generalizable Representations from Vision-Language Models](https://arxiv.org/abs/2404.14906)
   - [Augmented Self-Mask Attention Transformer for Naturalistic Driving Action Recognition](https://openaccess.thecvf.com/content/CVPR2024W/AICity/html/Zhang_Augmented_Self-Mask_Attention_Transformer_for_Naturalistic_Driving_Action_Recognition_CVPRW_2024_paper.html)
+  - [Vision-Language Models can Identify Distracted Driver Behavior from Naturalistic Videos9(https://arxiv.org/abs/2306.10159)
+ 
+-  **Light-weight Models:**
+
+  - [Quantized Distillation: Optimizing Driver Activity Recognition Models for Resource-Constrained Environments](https://arxiv.org/abs/2311.05970)
+  - [Federated Learning-based Driver Activity Recognition for Edge Devices](https://openaccess.thecvf.com/content/CVPR2022W/AICity/html/Doshi_Federated_Learning-Based_Driver_Activity_Recognition_for_Edge_Devices_CVPRW_2022_paper.html)
 
 
 
