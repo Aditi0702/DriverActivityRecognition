@@ -15,12 +15,18 @@ This repository lists methods, models, and datasets for driver activity/distacti
 
   - [Driver Activity Recognition by Learning Spatiotemporal Features of Pose and Human-Object Interaction]( https://www.sciencedirect.com/science/article/pii/S1047320321000808)
   - [Detection and Recognition of Driver Distraction Using Multimodal Data](https://dl.acm.org/doi/10.1145/3519267)
+  - [Multi-modality action recognition based on dual feature shift in vehicle cabin monitoring](https://arxiv.org/abs/2401.14838)
  
 - **Behavior Profiling and Classification:**
 
   - [Driver Behavior Detection and Classification Using Deep Convolutional Neural Networks](https://www.sciencedirect.com/science/article/pii/S095741742030066X)
   - [Driver Behavior Recognition via Interwoven Deep Convolutional Neural Nets with Multi-stream Inputs](https://arxiv.org/abs/1811.09128)
   - [Driver Distraction Detection and Recognition Using RGB-D Sensor](https://arxiv.org/abs/1502.00250)
+ 
+-  **Vision-Language Models**
+
+  - [Driver Activity Classification Using Generalizable Representations from Vision-Language Models](https://arxiv.org/abs/2404.14906)
+
 
 
 
