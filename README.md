@@ -45,7 +45,7 @@ This repository lists methods, models, and datasets for driver activity/distacti
 
   - [Driver Activity Classification Using Generalizable Representations from Vision-Language Models](https://arxiv.org/abs/2404.14906)
   - [Augmented Self-Mask Attention Transformer for Naturalistic Driving Action Recognition](https://openaccess.thecvf.com/content/CVPR2024W/AICity/html/Zhang_Augmented_Self-Mask_Attention_Transformer_for_Naturalistic_Driving_Action_Recognition_CVPRW_2024_paper.html)
-  - [Vision-Language Models can Identify Distracted Driver Behavior from Naturalistic Videos9(https://arxiv.org/abs/2306.10159)
+  - [Vision-Language Models can Identify Distracted Driver Behavior from Naturalistic Videos](https://arxiv.org/abs/2306.10159)
  
 - **Light-weight Models:**
 
