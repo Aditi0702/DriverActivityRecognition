@@ -23,7 +23,7 @@ This repository lists methods, models, and datasets for driver activity/distacti
   - [Driver Behavior Recognition via Interwoven Deep Convolutional Neural Nets with Multi-stream Inputs](https://arxiv.org/abs/1811.09128)
   - [Driver Distraction Detection and Recognition Using RGB-D Sensor](https://arxiv.org/abs/1502.00250)
  
--  **Vision-Language Models:**
+- **Vision-Language Models:**
 
   - [Driver Activity Classification Using Generalizable Representations from Vision-Language Models](https://arxiv.org/abs/2404.14906)
   - [Augmented Self-Mask Attention Transformer for Naturalistic Driving Action Recognition](https://openaccess.thecvf.com/content/CVPR2024W/AICity/html/Zhang_Augmented_Self-Mask_Attention_Transformer_for_Naturalistic_Driving_Action_Recognition_CVPRW_2024_paper.html)
