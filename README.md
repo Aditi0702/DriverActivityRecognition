@@ -1,7 +1,9 @@
 # DriverActivityRecognition
 
 This repository lists methods, models, and datasets for driver activity/distaction recognition
+
 **Methods**
+
  *Deep learning-based approach:
    ** Driver Activity Recognition Through Deep Learning https://ieeexplore.ieee.org/abstract/document/9377022
 
