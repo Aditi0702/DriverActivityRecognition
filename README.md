@@ -12,7 +12,6 @@ This repository lists methods, models, and datasets for driver activity/distacti
   
   - [Driver Activity Recognition Through Deep Learning](https://ieeexplore.ieee.org/abstract/document/9377022)
   - [Drive-Net: Convolutional Network for Driver Distraction Detection](https://arxiv.org/abs/2006.12586)
-  - [An Intelligent Real-Time Driver Activity Recognition System Using Spatio-Temporal Features](https://www.mdpi.com/2076-3417/14/17/7985)
   - [Detecting Driver Distraction Using Deep-Learning Approach](https://www.sciencedirect.com/org/science/article/pii/S1546221821009231)
   - [P-YOLOv8: Efficient and Accurate Real-Time Detection of Distracted Driving](https://arxiv.org/abs/2410.15602)
   - [Activity-aware Attributes for Zero-Shot Driver Behavior Recognition](https://openaccess.thecvf.com/content_CVPRW_2020/html/w54/Reiss_Activity-Aware_Attributes_for_Zero-Shot_Driver_Behavior_Recognition_CVPRW_2020_paper.html)
@@ -27,6 +26,12 @@ This repository lists methods, models, and datasets for driver activity/distacti
   - [Do You Act Like You Talk? Exploring Pose-based Driver Action Classification with Speech Recognition Networks](http://ieeexplore.ieee.org/abstract/document/10588839)
   - [CM2-Net: Continual Cross-Modal Mapping Network For Driver Action Recognition](https://ieeexplore.ieee.org/abstract/document/10647381)
   - [DRVMon-VM: Distracted driver recognition using large pre-trained video transformers](https://ieeexplore.ieee.org/abstract/document/10588412)
+  - [Pose-guided multi-task video transformer for driver action recognition](https://arxiv.org/abs/2407.13750)
+  - [Stargazer: A Transformer-Based Driver Action Detection System for Intelligent Transportation](https://openaccess.thecvf.com/content/CVPR2022W/AICity/papers/Liang_Stargazer_A_Transformer-Based_Driver_Action_Detection_System_for_Intelligent_Transportation_CVPRW_2022_paper.pdf)
+  - [MultiFuser: Multimodal Fusion Transformer for Enhanced Driver Action Recognition](https://arxiv.org/abs/2408.01766)
+  - [M2DAR: Multi-View Multi-Scale Driver Action Recognition with Vision Transformer](https://arxiv.org/pdf/2305.08877)
+  - [Transformer-based Fusion of 2D-pose and Spatio-temporal Embeddings for Distracted Driver Action Recognition](https://arxiv.org/pdf/2403.06577)
+  - [Driver Distraction Behavior Detection using a Vision Transformer Model based on Transfer Learning Strategy](https://ieeexplore.ieee.org/document/9965124)
   
 
 - **Spatiotemporal and Multimodal Techniques:**
@@ -34,6 +39,7 @@ This repository lists methods, models, and datasets for driver activity/distacti
   - [Driver Activity Recognition by Learning Spatiotemporal Features of Pose and Human-Object Interaction]( https://www.sciencedirect.com/science/article/pii/S1047320321000808)
   - [Detection and Recognition of Driver Distraction Using Multimodal Data](https://dl.acm.org/doi/10.1145/3519267)
   - [Multi-modality action recognition based on dual feature shift in vehicle cabin monitoring](https://arxiv.org/abs/2401.14838)
+  - [An Intelligent Real-Time Driver Activity Recognition System Using Spatio-Temporal Features](https://www.mdpi.com/2076-3417/14/17/7985)
  
 - **Behavior Profiling and Classification:**
 
@@ -46,6 +52,8 @@ This repository lists methods, models, and datasets for driver activity/distacti
   - [Driver Activity Classification Using Generalizable Representations from Vision-Language Models](https://arxiv.org/abs/2404.14906)
   - [Augmented Self-Mask Attention Transformer for Naturalistic Driving Action Recognition](https://openaccess.thecvf.com/content/CVPR2024W/AICity/html/Zhang_Augmented_Self-Mask_Attention_Transformer_for_Naturalistic_Driving_Action_Recognition_CVPRW_2024_paper.html)
   - [Vision-Language Models can Identify Distracted Driver Behavior from Naturalistic Videos](https://arxiv.org/abs/2306.10159)
+  - [DriveCLIP: Zero-Shot Transfer for Distracted Driving Activity Understanding Using CLIP](https://ml4ad.github.io/files/papers2022/DriveCLIP:%20Zero-Shot%20Transfer%20for%20Distracted%20Driving%20Activity%20Understanding%20using%20CLIP.pdf)
+  - [Activity-aware Attributes for Zero-Shot Driver Behavior Recognition](https://ieeexplore.ieee.org/document/9150752)
  
 - **Light-weight Models:**
 
