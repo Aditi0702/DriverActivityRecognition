@@ -40,7 +40,7 @@ This repository lists methods, models, and datasets for driver activity/distacti
   - [Augmented Self-Mask Attention Transformer for Naturalistic Driving Action Recognition](https://openaccess.thecvf.com/content/CVPR2024W/AICity/html/Zhang_Augmented_Self-Mask_Attention_Transformer_for_Naturalistic_Driving_Action_Recognition_CVPRW_2024_paper.html)
   - [Vision-Language Models can Identify Distracted Driver Behavior from Naturalistic Videos9(https://arxiv.org/abs/2306.10159)
  
--  **Light-weight Models:**
+- **Light-weight Models:**
 
   - [Quantized Distillation: Optimizing Driver Activity Recognition Models for Resource-Constrained Environments](https://arxiv.org/abs/2311.05970)
   - [Federated Learning-based Driver Activity Recognition for Edge Devices](https://openaccess.thecvf.com/content/CVPR2022W/AICity/html/Doshi_Federated_Learning-Based_Driver_Activity_Recognition_for_Edge_Devices_CVPRW_2022_paper.html)
