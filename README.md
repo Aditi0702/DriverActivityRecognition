@@ -10,8 +10,8 @@ This repository lists methods, models, and datasets for driver activity/distacti
    -An Intelligent Real-Time Driver Activity Recognition System Using Spatio-Temporal Features: https://www.mdpi.com/2076-3417/14/17/7985 <br>
 
 -Spatiotemporal and Multimodal Techniques <br>
- -Driver Activity Recognition by Learning Spatiotemporal Features of Pose and Human-Object Interaction: https://www.sciencedirect.com/science/article/pii/S1047320321000808
- -Detection and Recognition of Driver Distraction Using Multimodal Data: https://dl.acm.org/doi/10.1145/3519267
+ -Driver Activity Recognition by Learning Spatiotemporal Features of Pose and Human-Object Interaction: https://www.sciencedirect.com/science/article/pii/S1047320321000808 <br>
+ -Detection and Recognition of Driver Distraction Using Multimodal Data: https://dl.acm.org/doi/10.1145/3519267 <br>
 
 
 **Public Datasets:** 
